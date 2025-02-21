@@ -147,9 +147,9 @@ Only perform this if this is the first time you will setup your Git Environment
       ```Java
       public class ParametersAndArguments {
           public static void main(String[] args) {
-              int roomWidth = 10;
-              int roomHeight = 15;
-          }
+              int area = width * height;
+            } int roomWidth=10
+            int roomHeight=15
           //... (calculateArea method)...
       }
       ```
